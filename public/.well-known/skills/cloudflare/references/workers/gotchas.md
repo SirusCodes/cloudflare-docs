@@ -70,7 +70,7 @@ export default {
 | Request size | 100 MB |
 | Response size | Unlimited (streaming) |
 | CPU time | 10ms (standard) / 30ms (unbound) |
-| Subrequests | 50 per request (free) / 10000 per request (paid) |
+| Subrequests | 50 per request (free) / 10,000 per request (paid) |
 | KV reads | 1000 per request |
 | KV write size | 25 MB |
 | Environment size | 5 MB |

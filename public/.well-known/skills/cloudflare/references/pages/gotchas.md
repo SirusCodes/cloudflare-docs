@@ -148,7 +148,7 @@ npx wrangler pages deployment tail --project-name=my-project
 - **Deployments**: 500/month (Free), 20k files, 25MB/file
 - **Config**: 2,100 redirects, 100 headers, 100 routes
 - **Build**: 20min timeout
-- **Subrequests**: 50/request (free) / 10000/request (paid)
+- **Subrequests**: 50/request (free) / 10,000/request (paid)
 - **Request size**: 100MB
 
 [Full limits](https://developers.cloudflare.com/pages/platform/limits/)
